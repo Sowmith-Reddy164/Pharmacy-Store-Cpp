@@ -1,0 +1,19 @@
+'''
+===================================MSN-MART===================================
+Address:                                                             DATE: Nov  2 2023
+MSN-mart,                                                            TIME: 23:12:42
+Nagpur,
+Maharashtra,                                                         P.No: 73044 41207
+440006.
+______________________________________________________________________________________
+
+Name of customer: mani
+***** PRODUCTS LIST *****
+                      NAME                      |  QUANTITY |   PRICE   | SUB_TOTAL
+                                                                   TOTAL: 0
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                                                Bill Issued by: - Manikanta
+                               Thank You for visiting, VISIT AGAIN !!!!!
+
+
+'''
